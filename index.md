@@ -7,7 +7,9 @@ layout: home
 <img src="./assets/quale.png" alt="Quale" width="108" text="This is a text">
 <h1 align="center">Quale Programming Language</h1>
 
+<div style="text-align: center;">
 <a href="https://github.com/quale-lang/quale"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub Repository"></a>
+</div>
 </p>
 
 Quale is a programming language designed for quantum computation.
